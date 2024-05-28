@@ -1,0 +1,21 @@
+# Install node_exporter on linux server machine (Fedora)
+https://prometheus.io/docs/guides/node-exporter/
+
+# Enable node_exporter as onboot service
+https://developer.couchbase.com/tutorial-node-exporter-setup
+
+# Standard prometheus.yml format
+https://prometheus.io/docs/prometheus/latest/getting_started/
+
+# Docker-compose file and necessary alert-*.yml files
+https://github.com/VictoriaMetrics/VictoriaMetrics/blob/master/deployment/docker/docker-compose.yml
+
+# Fedora server firewall access
+https://www.server-world.info/en/note?os=CentOS_Stream_9&p=firewalld&f=1
+
+# PromQL to collect CPU and RAM usage
+https://stackoverflow.com/questions/66169803/cpu-usage-for-each-node-in-prometheus
+https://stackoverflow.com/questions/48835035/average-memory-usage-query-prometheus
+
+# [Optional] Change linux machine server (Fedora) IP address 
+https://www.server-world.info/en/note?os=Fedora_38&p=initial_conf&f=3
