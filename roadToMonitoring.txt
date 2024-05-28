@@ -19,3 +19,6 @@ https://stackoverflow.com/questions/48835035/average-memory-usage-query-promethe
 
 # [Optional] Change linux machine server (Fedora) IP address 
 https://www.server-world.info/en/note?os=Fedora_38&p=initial_conf&f=3
+
+# [Optional] Add SSH key to Github account
+https://www.inmotionhosting.com/support/server/ssh/how-to-add-ssh-keys-to-your-github-account/
